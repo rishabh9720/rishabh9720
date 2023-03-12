@@ -2,9 +2,8 @@
 <hr>
 
 
-- 🔭 I’m currently working on Android Developement
-- 🌱 I’m currently learning Node.js
-- ⚡ Ask me about JavaScript, Data Structures and Algorithms, Node.js
+- 🔭 I’m a Full-Stack developer working on Django, AngularJS, ReactTs.
+- ⚡ Ask me about JavaScript, Python, Data Structures and Algorithms.
 - 📩 <a href="mailto:guptarishabh972@gmail.com">guptarishabh972@gmail.com</a>
 
 
