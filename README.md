@@ -4,7 +4,6 @@
 
 - 🔭 I’m a Full-Stack developer working on Django, AngularJS, ReactTs.
 - ⚡ Ask me about JavaScript, Python, Data Structures and Algorithms.
-- 📩 <a href="mailto:guptarishabh972@gmail.com">guptarishabh972@gmail.com</a>
 
 
 [![Nitesh's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh9720&theme=dark)](https://github.com/rishabh9720/rishabh9720) 
